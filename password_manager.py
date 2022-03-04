@@ -6,7 +6,7 @@ number=int(input('Enter number of passwords:'))
 
 length=int(input('Enter password length: '))
 
-char='qwertyuiop[]asdfghjkl;\zxcvbnm,./<>?:|}{1234567890-=!@#$%^&*()_+`~'
+char='qwertyuiopasdfghjklzxcvbnm1234567890-='
 
 for x in range(number):
     pwd=''
